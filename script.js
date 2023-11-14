@@ -15,8 +15,3 @@ if (soma > 10) {
     * alert("Soma não é maior que 10.");
     }
     n.
-
-let botaoCor = document.getElementById("botaoMudaCor");
-botaoCor.addEventListener("click", function() {
-document.body.style.backgroundColor = "lightblue";
-});
