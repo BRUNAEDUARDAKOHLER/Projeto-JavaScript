@@ -7,10 +7,10 @@ alert("Olá, mundo!");
 let soma = 5 + 3; // Adição
 
 // If-else
-if (soma &gt; 10) {
-    alert(&quot;Soma é maior que 10.&quot;);
+if (soma > 10) {
+    alert("Soma é maior que 10.");
     } else {
     
-    * alert(&quot;Soma não é maior que 10.&quot;);
+    * alert("Soma não é maior que 10.");
     }
     n.
