@@ -2,7 +2,7 @@ let nome = prompt("Qual é o seu nome?");
 alert("Bem-vindo(a),"+ nome +"!");
 
 let mensagem = "Olá, mundo!"; // String
-alert("Olá, mundo!");
+alert(mensagem);
 
 let soma = 5 + 3; // Adição
 
