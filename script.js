@@ -11,6 +11,6 @@ if (soma > 10) {
     alert("Soma é maior que 10.");
     } else {
     
-    * alert("Soma não é maior que 10.");
+    alert("Soma não é maior que 10.");
     }
-    n.
+    n
